@@ -22,7 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg) ![On mouse hover](./screenshot_active.jpg)
+####Inactive Card
+![](./screenshot.jpg)
+
+####Active Card
+![On mouse hover](./screenshot_active.jpg)
+
 
 ### Links
 
