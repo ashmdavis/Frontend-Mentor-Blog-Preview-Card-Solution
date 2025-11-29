@@ -22,8 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![On mouse hover](./screenshot_active.jpg)
+![](./screenshot.jpg) ![On mouse hover](./screenshot_active.jpg)
 
 ### Links
 
