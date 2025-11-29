@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]([https://your-solution-url.com](https://github.com/ashmdavis/Frontend-Mentor-Blog-Preview-Card-Solution/blob/main/index.html))
-- Live Site URL: [Github Pages]([https://your-live-site-url.com](https://ashmdavis.github.io/Frontend-Mentor-Blog-Preview-Card-Solution/))
+- Solution URL: [Github](https://github.com/ashmdavis/Frontend-Mentor-Blog-Preview-Card-Solution/blob/main/index.html)
+- Live Site URL: [Github Pages](https://ashmdavis.github.io/Frontend-Mentor-Blog-Preview-Card-Solution/)
 
 ## My process
 
